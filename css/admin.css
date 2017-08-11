@@ -1,0 +1,63 @@
+#omnivideo-shortcode-form {
+	padding: 10px 0px;
+}
+#omnivideo-shortcode-form .subsubsub{
+	float:none;
+}
+#omnivideo-shortcode-form .button-panel {
+	margin-top: 20px;
+}
+#omnivideo-submit {
+	margin-right: 10px;
+}
+#omnivideo-shortcode-form .preview{
+	float:none;
+}
+#omnivideo-shortcode-form th{
+	text-align:left;
+	padding-right:20px;
+}
+
+#omnivideo-shortcode-form .omnivideo-form-wrapper, #omnivideo-shortcode-form .preview, #omnivideo-shortcode-form .button-panel {
+	padding: 0px 20px;
+}
+
+#omnivideo-shortcode-form ul.subsubsub li a {
+	padding: 8px 10px 9px;
+	margin: 0;
+	height: 18px;
+	line-height: 18px;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+#omnivideo-shortcode-form ul.subsubsub li a.current {
+   background: #fff;
+}
+
+#omnivideo-shortcode-form ul.subsubsub {
+	margin-bottom: 15px;
+	border-bottom:1px solid #ddd;
+	padding-bottom: 8.399px;
+	padding-left: 15px;
+}
+
+#omnivideo-shortcode-form ul.subsubsub a.current {
+	border-top:1px solid #ddd;
+	border-right:1px solid #ddd;
+	border-left:1px solid #ddd;
+}
+
+#media-upload {
+	background: #fff;
+	}
+
+#omnivideo-shortcode-form td {
+	padding-right: 15px;
+}
+#omnivideo-preview {
+	padding: 10px 15px;
+	background: #F3F3F3;
+	border-left: 3px solid #CCC;
+	display: inline-block;
+}
